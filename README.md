@@ -2,17 +2,16 @@
 
 - 🔭 Atualmente trabalho como professora particular de inglês online;
 - 🌱 Cursando ADS e aprendendo python;
-- 🌸 Melhorando meu conhecimento de Front-end com o curso da Alura;
+- 🌸 Aprimorando meu conhecimento de Front-end;
 - 😄 ela/dela, she/her.
 <br>
 <h3></h3>
 <div>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" target="_blank>
-  <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" target="_blank">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" target="_blank">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" target="_blank">
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" target="_blank">
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" target="_blank">
+  <img src="https://media.discordapp.net/attachments/975746748276441090/1008451926804926494/python.png" width="30px" target="_blank">
+  <img src="https://media.discordapp.net/attachments/975746748276441090/1008451925773131837/js.png" width="30px" target="_blank">
+  <img src="https://media.discordapp.net/attachments/975746748276441090/1008451926498754732/html5.png?width=670&height=670" width="30px" target="_blank">
+  <img src="https://media.discordapp.net/attachments/975746748276441090/1008451926163193866/css3.png?width=670&height=670" width="30px" target="_blank">
+  <img src="https://media.discordapp.net/attachments/975746748276441090/1008451925097857034/nodejs.png" width="30px" target="_blank">
 </div>
 <hr>
 <div>

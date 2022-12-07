@@ -1,8 +1,8 @@
 ### Oi! Meu nome é Thainá.
 
 - 🔭 Atualmente trabalho como professora particular de inglês online;
-- 🌱 Cursando ADS e aprendendo python;
-- 🌸 Aprimorando meu conhecimento de Front-end;
+- 🌱 Cursando ADS e aprendendo java;
+- 🌸 Aprimorando meu conhecimento de Front-end com cursos da Alura;
 - 😄 ela/dela, she/her.
 <br>
 <h3></h3>

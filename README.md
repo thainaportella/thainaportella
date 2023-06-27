@@ -1,8 +1,10 @@
 ### Oi! Meu nome é Thainá.
 
-- 🔭 Atualmente trabalho como professora particular de inglês online;
-- 🌱 Cursando ADS e aprendendo java;
-- 🌸 Aprimorando meu conhecimento de Front-end com cursos da Alura;
+- 🔭 Estagiária do Banco BV💙;
+- 🌱 Cursando Análise e Desenvolvimento de Sistemas;
+- 🌸 Desenvolvendo meu conhecimento em Java e Spring Boot;
+- 👩‍💻 Aluna da 1ª turma do Tech Academy - StartSe;
+- 👩‍🏫 Ex professora de inglês e formada em psicologia;
 - 😄 ela/dela, she/her.
 <br>
 <h3></h3>

@@ -1,8 +1,9 @@
 ### Oi! Meu nome é Thainá.
 
-- 🔭 Estagiária do Banco BV💙;
-- 🌱 Cursando Análise e Desenvolvimento de Sistemas;
-- 🌸 Desenvolvendo meu conhecimento em Java e Spring Boot;
+- 🔭 Analista de Sistemas do Banco BV💙;
+- 🌱 Formada em Análise e Desenvolvimento de Sistemas (08/2024);
+- 🌸 Desenvolvedora Back-End Java e Spring Boot;
+- 🐞 Aprimorando meu conhecimento em testes automatizados com Selenium;
 - 👩‍💻 Aluna da 1ª turma do Tech Academy - StartSe;
 - 👩‍🏫 Ex professora de inglês e formada em psicologia;
 - 😄 ela/dela, she/her.
